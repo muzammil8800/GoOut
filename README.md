@@ -1,0 +1,2 @@
+# GoOut
+Go Out is a mobile application developed for the simple purpose of connecting its users to local events and special activities happening around their area. We have developed an application for smart phones that allows any individual to find local events and specials that are happening around their area. Anything from concerts, farmer’s markets, car shows, comedy events, community events, sporting events, lunch deals and more can be found on the app. 
